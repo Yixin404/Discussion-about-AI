@@ -8,3 +8,16 @@ I hope it will help.
 It will be a long and hard way, but a right way.
 
 Let's set an easier goal first!
+
+
+
+
+----------------------------------------了解后的分界线----------------------------------------------
+
+Let's forget AI.
+
+You learn C and I learn Python.
+
+And we learn math together.
+
+Then talk about machine learn and AI.
