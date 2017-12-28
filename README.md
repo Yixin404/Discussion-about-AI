@@ -28,3 +28,4 @@ It might be 5 years later.
 But……it is ok right?
 
 我觉得这个写的很有道理 http://blog.csdn.net/baihuaxiu123/article/details/52464510
+关于语言的选择，斌斌酱你可以把这个链接中的所有问题都看一遍先 https://www.zhihu.com/search?type=content&q=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%20Java%20Python
