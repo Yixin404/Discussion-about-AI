@@ -1,7 +1,8 @@
 # Discussion-about-AI
 
 Hi, bin!
-I'll collect some questions about why and how to learn Ai, and also include their experience.
+
+I'll collect some questions about why and how to learn AI, and also include their experience.
 
 I hope it will help.
 
@@ -14,7 +15,7 @@ Let's set an easier goal first!
 
 ----------------------------------------了解后的分界线----------------------------------------------
 
-Let's forget AI.
+Let's forget it, I'm serious.
 
 You learn C and I learn Python.
 
