@@ -26,3 +26,5 @@ Then talk about machine learn and AI.
 It might be 5 years later.
 
 But……it is ok right?
+
+我觉得这个写的很有道理 http://blog.csdn.net/baihuaxiu123/article/details/52464510
