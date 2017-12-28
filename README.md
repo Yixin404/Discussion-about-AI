@@ -22,3 +22,7 @@ You learn C and I learn Python.
 And we learn math together.
 
 Then talk about machine learn and AI.
+
+It might be 5 years later.
+
+But……it is ok right?
